@@ -22,7 +22,7 @@ export default function Footer() {
       <Box>
         <Divider>
           <Typography color="grey.700" variant="h6">
-            Developed by{" "}
+            Developed by Shyam{" "}
             <Link
               href="https://github.com/crazy-man22"
               underline="none"
